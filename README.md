@@ -1,11 +1,8 @@
-== README
+# Ruby on Rails チュートリアル：サンプルアプリケーション
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
+This is the first application for the
+[*Ruby on Rails*](http://rubyonrails.org/)
+by [Samurai Engineer Juku](http://www.sejuku.net/).
 
 * System dependencies
 
